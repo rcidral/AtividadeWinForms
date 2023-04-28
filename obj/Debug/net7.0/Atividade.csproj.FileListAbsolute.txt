@@ -1,0 +1,5 @@
+/mnt/c/Users/ricid/www/senac/AtividadeWinForms/obj/Debug/net7.0/Atividade.csproj.AssemblyReference.cache
+/mnt/c/Users/ricid/www/senac/AtividadeWinForms/obj/Debug/net7.0/Atividade.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/ricid/www/senac/AtividadeWinForms/obj/Debug/net7.0/Atividade.AssemblyInfoInputs.cache
+/mnt/c/Users/ricid/www/senac/AtividadeWinForms/obj/Debug/net7.0/Atividade.AssemblyInfo.cs
+/mnt/c/Users/ricid/www/senac/AtividadeWinForms/obj/Debug/net7.0/Atividade.csproj.CoreCompileInputs.cache
